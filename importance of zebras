@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Importance of Zebras</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f2f2f2;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            margin-top: 0;
+        }
+        section {
+            padding: 20px;
+            max-width: 800px;
+            margin: 20px auto;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        p {
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>The Importance of Zebras</h1>
+    </header>
+    <section>
+        <h2>Ecological Role</h2>
+        <p>Zebras play a crucial role in their ecosystems. As herbivores, they graze on grasses and help control vegetation growth, which prevents certain plant species from becoming dominant and maintains the balance of the ecosystem.</p>
+        
+        <h2>Prey Species</h2>
+        <p>Zebras are an important prey species for large predators like lions and hyenas. Their abundance ensures the survival of these predators, which in turn helps regulate the population of other herbivores and maintains the health of the entire ecosystem.</p>
+        
+        <h2>Tourism and Conservation</h2>
+        <p>Zebras are iconic animals that attract tourists to regions where they are found. The revenue generated from wildlife tourism supports conservation efforts aimed at protecting not only zebras but also other species that share their habitat.</p>
+        
+        <h2>Cultural Significance</h2>
+        <p>In many cultures, zebras hold symbolic significance and are revered as symbols of freedom, beauty, and resilience. They often feature in folklore, art, and traditional ceremonies, highlighting their importance beyond ecological factors.</p>
+    </section>
+</body>
+</html>
